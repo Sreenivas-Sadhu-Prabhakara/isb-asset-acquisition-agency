@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-asset-acquisition-agency
+description: "BIAN Service Domain: Asset Acquisition Agency (Process pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Sale Based Financing"
+  isb/asset-type: "Wakala Purchase Mandate"
+  isb/control-record: "Wakala Purchase Mandate Procedure"
